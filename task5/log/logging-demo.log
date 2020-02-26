@@ -1,0 +1,18 @@
+2020-02-23 19:22:38 DEBUG App:22 -Enter 0 if you want to calculate Simple Interest and 1 if you want to calculate Compound Interest
+2020-02-23 19:22:49 DEBUG App:27 -Enter Principle
+2020-02-23 19:22:51 DEBUG App:29 -Enter Time Period(in years)
+2020-02-23 19:22:52 DEBUG App:31 -Enter Rate Of Interest
+2020-02-23 19:22:53 DEBUG App:39 -Result of simple interest is : 0.01
+2020-02-23 19:22:53 DEBUG App:47 -Enter 1 to conitnue and 0 to exit
+2020-02-23 19:25:36 DEBUG App:22 -Enter 0 if you want to calculate Simple Interest and 1 if you want to calculate Compound Interest
+2020-02-23 19:25:45 DEBUG App:27 -Enter Principle
+2020-02-23 19:25:49 DEBUG App:29 -Enter Time Period(in years)
+2020-02-23 19:25:51 DEBUG App:31 -Enter Rate Of Interest
+2020-02-23 19:25:53 DEBUG App:39 -Result of simple interest is : 1.0
+2020-02-23 19:25:53 DEBUG App:47 -Enter 1 to conitnue and 0 to exit
+2020-02-23 19:34:01 DEBUG App:22 -Enter 0 if you want to calculate Simple Interest and 1 if you want to calculate Compound Interest
+2020-02-23 19:34:16 DEBUG App:27 -Enter Principle
+2020-02-23 19:34:18 DEBUG App:29 -Enter Time Period(in years)
+2020-02-23 19:34:19 DEBUG App:31 -Enter Rate Of Interest
+2020-02-23 19:34:20 DEBUG App:39 -Result of simple interest is : 0.01
+2020-02-23 19:34:20 DEBUG App:47 -Enter 1 to conitnue and 0 to exit
